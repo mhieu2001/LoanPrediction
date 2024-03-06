@@ -1,4 +1,4 @@
 # LoanPrediction
 Data Analysis using the Kaggle Dataset and apply Logistic Regression Model with metrics score and Confusion Matrix
 
-For the detail of document, let's take a look at article where I inspired here 
+For the detail of document, let's take a look at article where I inspired [here](https://valueml.com/loan-prediction-using-machine-learning-in-python/)
